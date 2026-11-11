@@ -1,0 +1,8 @@
+{
+ "_doc": "Registro de calibração por ASSINATURA de preset (lida do stream de controle). Semeado com capturas confirmadas; assinaturas novas pedem confirmação 1x e são lembradas.",
+ "0x6e/2166": {"preset":"linear / partes moles","geom":"linear","depth_cm":4.0,"px_ax_mm":0.078,"px_lat_mm":0.238},
+ "0x50/1b66": {"preset":"abdome","geom":"convex","depth_cm":16.0,"apex_mm":40,"fov":60,"px_ax_mm":0.312},
+ "0x32/2166": {"preset":"cardiaco","geom":"sector","depth_cm":12.0,"apex_mm":18,"fov":85,"px_ax_mm":0.234},
+ "0x32/3966": {"preset":"vascular / carotida","geom":"linear","depth_cm":4.0,"px_ax_mm":0.078,"px_lat_mm":0.238},
+ "0x32/1a80": {"preset":"cardiaco (prof. alt)","geom":"sector","depth_cm":12.0,"apex_mm":18,"fov":85,"px_ax_mm":0.234}
+}
